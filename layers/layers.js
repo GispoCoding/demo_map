@@ -56,12 +56,12 @@ var lyr_Pubs_3 = new ol.layer.Vector({
 
 lyr_OpenStreetMap_0.setVisible(true);lyr_Voronoipolygons_1.setVisible(true);lyr_Heatmap_2.setVisible(true);lyr_Pubs_3.setVisible(true);
 var layersList = [lyr_OpenStreetMap_0,lyr_Voronoipolygons_1,lyr_Heatmap_2,lyr_Pubs_3];
-lyr_Voronoipolygons_1.set('fieldAliases', {'fid': 'fid', 'address': 'address', 'name': 'name', 'url': 'url', 'why': 'why', 'x': 'x', 'y': 'y', });
+lyr_Voronoipolygons_1.set('fieldAliases', {'fid': 'fid', 'address': 'address', 'name': 'name', 'url': 'url', 'why': 'why', });
 lyr_Pubs_3.set('fieldAliases', {'fid': 'fid', 'address': 'address', 'name': 'name', 'url': 'url', 'why': 'why', 'x': 'x', 'y': 'y', });
 lyr_Voronoipolygons_1.set('fieldImages', {'fid': 'TextEdit', 'address': 'TextEdit', 'name': 'TextEdit', 'url': 'TextEdit', 'why': 'TextEdit', 'x': 'TextEdit', 'y': 'TextEdit', });
 lyr_Pubs_3.set('fieldImages', {'fid': 'TextEdit', 'address': 'TextEdit', 'name': 'TextEdit', 'url': 'TextEdit', 'why': 'TextEdit', 'x': 'TextEdit', 'y': 'TextEdit', });
 lyr_Voronoipolygons_1.set('fieldLabels', {'fid': 'no label', 'address': 'no label', 'name': 'no label', 'url': 'no label', 'why': 'no label', 'x': 'no label', 'y': 'no label', });
-lyr_Pubs_3.set('fieldLabels', {'fid': 'no label', 'address': 'inline label', 'name': 'inline label', 'url': 'inline label', 'why': 'inline label', 'x': 'no label', 'y': 'no label', });
+lyr_Pubs_3.set('fieldLabels', {'fid': 'no label', 'address': 'inline label', 'name': 'inline label', 'url': 'inline label', 'why': 'inline label', });
 lyr_Pubs_3.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });
