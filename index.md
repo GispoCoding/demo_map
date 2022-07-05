@@ -3,9 +3,9 @@
 Nice to see you here!
 
 You can explore the map either at
-- at full extent view [linkki](kartta.html)
+- at full extent view [link](map.html)
 
 or
 - via map embedding
 
-<iframe src="kartta.html" height="800" width="800"></iframe>
+<iframe src="map.html" height="700" width="700"></iframe>
