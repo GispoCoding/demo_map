@@ -1,8 +1,8 @@
 # demo_map
 
-This repository has been created for hosting a web map created with qgis2web plugin.
+This repository has been created for hosting a web map created with qgis2web plugin. Related to a blog post.
 
-You can take a look to the netpage hosting the interactive map at https://gispocoding.github.io/demo_map/
+You can take a look to the web page hosting the interactive map at https://gispocoding.github.io/demo_map/
 
 ## Data sources
 
