@@ -2,7 +2,7 @@
 
 This repository has been created for hosting a web map created with qgis2web plugin. Related to a blog post.
 
-You can take a look to the web page containing the embedded version of the interactive map at https://gispocoding.github.io/demo_map/ or just to the map itself at https://gispocoding.github.io/demo_map/map.html
+You can take a look to the web page containing the embedded version of the interactive map at https://gispocoding.github.io/demo_map/ or jump right on to exploring the map at the full extent at https://gispocoding.github.io/demo_map/map.html
 
 # Noteworthy
 
