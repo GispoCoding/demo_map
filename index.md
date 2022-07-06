@@ -1,8 +1,6 @@
 ## Interactive demo map
 
-
 Nice to see you here!
-
 
 The data displayed in this map has been originally created for a bachelorette party organized in Stockholm. In addition to this customized data set for locations to visit, the interactive map contains two more layers created with different geoprocessing algorithms from the pub points.
 
@@ -12,7 +10,7 @@ The data displayed in this map has been originally created for a bachelorette pa
 - For the interested: we determined the study area with the extent of the pub points + 25% buffer
 
 
-You can explore the map either
+**You can explore the map either**
 - at full extent view via [link](map.html)
 
 or
